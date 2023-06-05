@@ -1,3 +1,4 @@
+![Disambig_gray](https://github.com/github/docs/assets/134790241/70c8081b-c4cb-4b94-a391-78ad43f1c4c0)
 ---
 title: About upgrades to new releases
 shortTitle: About upgrades
